@@ -42,3 +42,8 @@ CREATE TABLE public.content
     conteudo text,
     constraint content_pkey primary key (codigo)
 );
+
+-- Responsavel Alex Jussiani
+create table public.Arctifact  (
+
+);
